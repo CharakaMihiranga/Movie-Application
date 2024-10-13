@@ -77,6 +77,10 @@ This project is a practice for full stack development using Java Spring Boot, Re
 Once both the frontend and backend are running:
 
 1. Open your browser and navigate to `http://localhost:3000`.
+2. You can browse through the list of movies, watch trailers, and add your reviews.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📄
 
 
